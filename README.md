@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Rodrigo
-- Estudante Analise Sistema de Informação
+- 👋 Meu nome é Rodrigo
+- Estudante Análise Sistemas de Informação
 - Atualmente mais focando em :
 - HTML,CSS
 - Java,Javascript
