@@ -2,4 +2,5 @@
 - Estudante Análise Sistemas de Informação
 - Atualmente mais focando em :
 - HTML,CSS
-- Java,Javascript
+- Java
+- Python
