@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rodrigo
+- Estudante Analise Sistema de Informação
+- Atualmente mais focando em :
+- HTML,CSS
+- Java,Javascript
