@@ -66,7 +66,8 @@ style = "padding - right 10px"
  align="left"
  alt="GitHub Stats"
  height="200"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digueroa&custom_title=Tecnologias&theme=radical&layout=compact&langs_count=9"
+ style="padding-right: 10px;"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digueroa&custom_title=Tecnologias&theme=radical&layout=compact&langs_count=7"
  />
  </p>
       
