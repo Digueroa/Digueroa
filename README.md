@@ -64,7 +64,7 @@ style = "padding - right 10px"
  />
 
 <img
- align="right"
+ align="left"
  alt="GitHub Stats"
  height="180"
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digueroa&custom_title=Tecnologias&theme=radical&layout=compact&langs_count=9"
